@@ -20,6 +20,7 @@
   "homepage": "https://github.com/fullStack-feed/_Express#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "methods": "^1.1.2",
     "nodemon": "^2.0.4"
   }
 }
